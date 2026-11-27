@@ -1,0 +1,5 @@
+discovery.json
+ig_cache.jsonl
+ig_account_cache.jsonl
+.venv/
+__pycache__/
